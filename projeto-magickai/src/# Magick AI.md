@@ -26,24 +26,23 @@ O layout utiliza a fonte [Roboto](https://fonts.google.com/specimen/Roboto) e se
 
 ## 📦 Como Executar
 
-1. Clone o repositório:
+ Clone o repositório:
 
  ```sh
 git clone https://github.com/seu-usuario/projeto-magickai.git
  ```
 
-2. Abra o arquivo index.html no seu navegador.
+ Abra o arquivo index.html no seu navegador.
 Não é necessário nenhum servidor ou dependência adicional.
 
-✨ Demonstração
-Demonstração do Magick AI
+✨ Demonstração do Magick AI
 
-🤝 Contribuição
+🤝 Contribuição:
 Sinta-se à vontade para abrir issues ou pull requests para melhorias!
 
-📄 Licença
+📄 Licença:
 Este projeto é apenas para fins educacionais.
 
-### Desenvolvido com 💜 durante a Semana do Zero ao Programador Contratado.
+### Desenvolvido com 💜 durante a Semana do Zero ao Programador Contratado
 
 ## Riany Quaresma
